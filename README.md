@@ -57,13 +57,13 @@ The engine follows a structured **Extract → Transform → Load → Validate** 
 
 ## Key Features
 
-- **Batch Processing** — Process large datasets efficiently using Spring Batch.
-- **Data Transformation** — Transform source data into the required target format.
-- **Retry & Error Handling** — Handle transient failures without restarting the entire migration.
-- **Migration Validation** — Verify migrated data using record counts, checksums, null checks, and data comparison.
-- **Restartability** — Resume failed or interrupted batch jobs from the appropriate point.
-- **Configurable Migration** — Keep migration-specific configuration separate from application code.
-- **Observability** — Designed to support application metrics, monitoring, and operational visibility.
+- **Batch Processing** - Process large datasets efficiently using Spring Batch.
+- **Data Transformation** - Transform source data into the required target format.
+- **Retry & Error Handling** - Handle transient failures without restarting the entire migration.
+- **Migration Validation** - Verify migrated data using record counts, checksums, null checks, and data comparison.
+- **Restartability** - Resume failed or interrupted batch jobs from the appropriate point.
+- **Configurable Migration** - Keep migration-specific configuration separate from application code.
+- **Observability** - Designed to support application metrics, monitoring, and operational visibility.
 
 ## Tech Stack
 
