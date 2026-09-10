@@ -14,7 +14,7 @@ The engine follows a structured **Extract → Transform → Load → Validate** 
 ┌─────────────────────────┐
 │     Source Database     │
 │                         │
-│  MySQL / PostgreSQL     │
+│          DB2
 └────────────┬────────────┘
              │
              ▼
